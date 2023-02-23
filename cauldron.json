@@ -8,6 +8,18 @@
           "name": "android",
           "versions": [
             {
+              "name": "0.0.1",
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
+            },
+            {
               "name": "1.0.0",
               "codePush": {},
               "container": {
