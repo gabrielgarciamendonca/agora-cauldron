@@ -24,12 +24,23 @@
               "codePush": {},
               "container": {
                 "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
+                "miniApps": [
+                  "https://github.com/gabrielgarciamendonca/agora-miniapp.git#cd65b39a6110eab19b1d9cf95dc33a1b13940f75"
+                ],
+                "nativeDeps": [
+                  "ernnavigation-api-impl-native@1.6.10",
+                  "ernnavigation-api@1.4.0",
+                  "react-native-electrode-bridge@1.5.27",
+                  "react-native@0.66.5"
+                ],
+                "ernVersion": "0.49.2"
               },
               "isReleased": false,
               "nativeDeps": [],
-              "yarnLocks": {}
+              "yarnLocks": {
+                "container": "ce832732-97f9-47b7-9025-1a618a3afc75"
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         }
